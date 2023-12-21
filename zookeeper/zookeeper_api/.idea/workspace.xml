@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f227193-d0f6-4abd-b9e2-752093d36723" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/dev/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:/dev/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_INTERNAL" />
+  </component>
+  <component name="ProjectId" id="24uloKk78p5PTxzHZAWYhdbfpNF" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.lagou.curator" />
+      <recent name="com.lagou.zkclient" />
+      <recent name="com.lagou.api" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Get_NoteChildren">
+    <configuration name="CreateSession" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.api.CreateSession" />
+      <module name="zookeeper_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.api.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetNote_curator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.curator.GetNote_curator" />
+      <module name="zookeeper_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.curator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Get_NoteChildren" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.zkclient.Get_NoteChildren" />
+      <module name="zookeeper_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.zkclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UpdateNote_curator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.itheima.curator.UpdateNote_curator" />
+      <module name="zookeeper_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.curator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DistributedLockDemo.sharedLock" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="zookeeper_api" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.curator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.itheima.curator" />
+      <option name="MAIN_CLASS_NAME" value="com.itheima.curator.DistributedLockDemo" />
+      <option name="METHOD_NAME" value="sharedLock" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Get_NoteChildren" />
+        <item itemvalue="JUnit.DistributedLockDemo.sharedLock" />
+        <item itemvalue="Application.CreateSession" />
+        <item itemvalue="Application.UpdateNote_curator" />
+        <item itemvalue="Application.GetNote_curator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f227193-d0f6-4abd-b9e2-752093d36723" name="Default Changelist" comment="" />
+      <created>1584457040354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584457040354</updated>
+      <workItem from="1584457041711" duration="22215000" />
+      <workItem from="1584497388470" duration="4989000" />
+      <workItem from="1584503280730" duration="7356000" />
+      <workItem from="1584524878115" duration="8230000" />
+      <workItem from="1644488527710" duration="1258000" />
+      <workItem from="1644543661021" duration="1623000" />
+      <workItem from="1644545593850" duration="1303000" />
+      <workItem from="1644547201326" duration="918000" />
+      <workItem from="1644561819313" duration="1395000" />
+      <workItem from="1645162638315" duration="3743000" />
+      <workItem from="1645178133071" duration="12000" />
+      <workItem from="1645183402784" duration="874000" />
+      <workItem from="1645594592559" duration="2610000" />
+      <workItem from="1645613877056" duration="705000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1483" height="94" key="GridCell.Tab.0.bottom" timestamp="1645171224748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="94" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1645171224748" />
+    <state width="1483" height="94" key="GridCell.Tab.0.center" timestamp="1645171224744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="94" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1645171224744" />
+    <state width="1483" height="94" key="GridCell.Tab.0.left" timestamp="1645171224744">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="94" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1645171224744" />
+    <state width="1483" height="94" key="GridCell.Tab.0.right" timestamp="1645171224748">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="94" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1645171224748" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1644488550624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1644488550624" />
+    <state x="406" y="201" key="com.intellij.ide.util.TipDialog" timestamp="1644543858661">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="406" y="201" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1644543858661" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/api/CreateSession.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/itheima/api/CreateSession.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
